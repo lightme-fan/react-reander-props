@@ -1,0 +1,26 @@
+{
+  "name": "react-reander-props",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightme-fan/react-reander-props.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightme-fan/react-reander-props/issues"
+  },
+  "homepage": "https://github.com/lightme-fan/react-reander-props#readme",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
